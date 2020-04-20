@@ -46,7 +46,7 @@ def get_audio():
             said = recognise.recognize_google(audio)
             print(said)
         except Exception as e:
-            print("Exception: " + str(e))
+            print("Waiting for the voice...: " + str(e))
         
     return said.lower()
 
