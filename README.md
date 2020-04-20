@@ -25,8 +25,8 @@ python mainVoice.py
 ```
 -> If you run `mainVoice.py` for the firs time it will redirect you to the browser for authentication, please click on the link and verify
 
--> To trigger/initialize the voice assistant speak `hi mario`
+-> To activate/initialize the voice assistant speak `hi mario`
 
--> To quit the voice assistant speak 'thank you`
+-> To quit/end the voice assistant speak 'thank you`
 
 ### That's all folks.
