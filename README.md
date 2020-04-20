@@ -29,4 +29,4 @@ python mainVoice.py
 
 -> To quit the voice assistant speak 'thank you`
 
-### That's it folks.
+### That's all folks.
